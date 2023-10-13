@@ -1,5 +1,9 @@
 ## Olá! Eu sou o Diogo Steinke Deconto, professor e coordenador dos cursos de Tecnologia da Universidade Positivo! 💀
 
+![Dideconto stats](https://github-readme-stats.vercel.app/api?username=dideconto&show_icons=true&theme=dracula&locale=pt-br&hide=issues,prs,contribs)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dideconto&layout=compact&locale=pt-br)
+
 ### Tecnologias utilizadas em sala de aula
 
 [![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)](#)
