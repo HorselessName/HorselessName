@@ -3,9 +3,10 @@
 
 Sou um Desenvolvedor de Software se especializando em sistemas de Monitoramento, utilizando linguagens como Angular/TypeScript, Python, um pouco de Java, e ferramentas de DevOps como o Grafana e Zabbix.
 
-Sou muito fã dessa área de monitoramento, tenho alguns projetos no meu GitHub que foram feitos nesta área...
+Sou muito fã de projetos de monitoramento, alguns deles estão aqui no meu GitHub, sinta-se à vontade para conferir.
 
-- 🌐 De uma olhada [no meu GitHub](https://github.com/HorselessName/), quem sabe não tem algo por lá que pode te ajudar... Eu tenho alguns projetos OpenSource, então sinta-se à vontade caso queira participar e contribuir :)
+- 🌐 Meu GitHub: [HorselessName](https://github.com/HorselessName/). Pode se aventurar, espero que tenha algo por aqui que possa te ajudar...
+- Eu tenho alguns projetos OpenSource também, então sinta-se à vontade caso queira participar e contribuir :)
 
 ---
 
