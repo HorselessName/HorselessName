@@ -1,9 +1,9 @@
 
 # Oi! 👋 Sou o Raul! 
 
-Sou um Desenvolvedor de Software se especializando em sistemas de Monitoramento, utilizando linguagens como Angular/TypeScript, Python, um pouco de Java, e ferramentas de DevOps como o Grafana e Zabbix.
+Sou um Desenvolvedor de Software, especialista sistemas de Monitoramento como Zabbix, Grafana e IoT, utilizando linguagens como Angular/TypeScript, Python, um pouco de Java, e ferramentas de DevOps.
 
-Sou muito fã de projetos de monitoramento, alguns deles estão aqui no meu GitHub, sinta-se à vontade para conferir.
+Sou muito fã de projetos de monitoramento e análise de dados, alguns deles estão aqui no meu GitHub, sinta-se à vontade para conferir.
 
 - 🌐 Meu GitHub: [HorselessName](https://github.com/HorselessName/). Pode se aventurar, espero que tenha algo por aqui que possa te ajudar...
 - Eu tenho alguns projetos OpenSource também, então sinta-se à vontade caso queira participar e contribuir :)
