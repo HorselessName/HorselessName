@@ -1,7 +1,7 @@
 
 # Oi! 👋 Sou o Raul! 
 
-Sou um Desenvolvedor de Software, especialista sistemas de Monitoramento como Zabbix, Grafana e IoT, utilizando linguagens como Angular/TypeScript, Python, um pouco de Java, e ferramentas de DevOps.
+Sou um Desenvolvedor de Software, especialista em sistemas de Monitoramento como Zabbix, Grafana e Softwares voltados à IoT e Industry 4.0. Minhas linguagens favoritas são Angular/TypeScript, Python e Java. Eu também sou apaixonado por ferramentas de DevOps, pois elas facilitam demais o meu trabalho. 
 
 Sou muito fã de projetos de monitoramento e análise de dados, alguns deles estão aqui no meu GitHub, sinta-se à vontade para conferir.
 
